@@ -1,4 +1,4 @@
-# 🌱 Sistem Informasi Manajemen Apotek (SiApotek)
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/7a7269a4-3213-4161-89a3-e714ec946e4b" /># 🌱 Sistem Informasi Manajemen Apotek (SiApotek)
 
 **Project Ujian Akhir Semester (UAS) - Pemrograman Web**
 
@@ -161,13 +161,16 @@ CREATE TABLE obat (
 ![foto]()
 
 2. Dashboard Utama
+
+- Admin
 ![foto]()
 
-3. Daftar Obat (Admin)
+- Kasir1
 ![foto]()
 
-4. Tampilan Kasir
+3. Home
 ![foto]()
+
 
 ## Screenshot fitur CRUD
 
