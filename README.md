@@ -158,27 +158,27 @@ CREATE TABLE obat (
 ## 📸 Screenshot Aplikasi
 
 1. Halaman Login.
-![foto]()
+<img src="uas-apotek/foto/Login.png" width="700">
 
 2. Dashboard Utama
 
 - Admin
-![foto]()
+<img src="uas-apotek/foto/Dashboard Admin.png" width="700">
 
 - Kasir1
 ![foto]()
 
 3. Home
-![foto]()
+<img src="uas-apotek/foto/Home.png" width="700">
 
 
 ## Screenshot fitur CRUD
 
 1. Form Tambah Data (The CRUD – Create)
-![foto]()
+<img src="uas-apotek/foto/Create.png" width="700">
 
-2. Setelah mengisi Form Tambah Data (The CRUD - Read) 
-![foto]()
+2. Setelah mengisi Form Tambah Data (The CRUD - Read)
+<img src="uas-apotek/foto/Home.png" width="700">
 
 3. Form Edit Data (The CRUD – Update)
 ![foto]()
