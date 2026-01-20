@@ -1,4 +1,4 @@
-<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/7a7269a4-3213-4161-89a3-e714ec946e4b" /># 🌱 Sistem Informasi Manajemen Apotek (SiApotek)
+# 🌱 Sistem Informasi Manajemen Apotek (SiApotek)
 
 **Project Ujian Akhir Semester (UAS) - Pemrograman Web**
 
